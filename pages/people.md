@@ -3,32 +3,32 @@ layout: template1
 title: people
 ---
 
-## Current Lab Members
+# Current Lab Members
 
-### Lab manager
+## Lab manager
 
 - Caroline Press
 
-### Postdoctoral scientists
+## Postdoctoral scientists
 
 - Brian Knaus
 - Ebba Peterson (joint with Parke lab)
 - Alexandra Weisberg (joint with Chang lab)
 - Felipe Albornoz (joint with Jones lab)
 
-### Graduate Students
+## Graduate Students
 
 - Zachary Foster
 - Zhian Kamvar
 - Shankar Shakya
 - Javier Tabima
 
-### Biological Sciences Technicians
+## Biological Sciences Technicians
 
 - Karan Fairchild
 - Val Fieland
 - Meg Larsen- Kenny Rolfe
 
-### Undergraduates
+## Undergraduates
 
 - Ciera Gray

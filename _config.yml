@@ -34,7 +34,7 @@ nav-links:
     Research: "pages/research.html"
     People: "pages/people.html"
     Publications: "pages/publications.html"
-#    Software: "pages/software.html"
+    Software: "pages/software.html"
     About: "pages/about.html"
 # --- Footer options --- #
 
