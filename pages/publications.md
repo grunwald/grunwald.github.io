@@ -13,4 +13,4 @@ title: Publications
 
 ## Publications
 
-<script src="http://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F116661%2Fcollections%2FQJ4Z3PH2%2Fitems%3Fkey%3DmeaOuxMcQYFcafdXgOBsfzuI%26format%3Dbibtex%26limit%3D100&;jsonp=1"></script>
+<script src="http://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F116661%2Fcollections%2FQJ4Z3PH2%2Fitems%3Fkey%3DmeaOuxMcQYFcafdXgOBsfzuI%26format%3Dbibtex%26limit%3D100&jsonp=1"></script>
