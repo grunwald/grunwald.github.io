@@ -11,6 +11,10 @@ title: Publications
 - [mendeley](https://www.mendeley.com/profiles/niklaus-grunwald/)
 - [frontiers](http://loop.frontiersin.org/people/188053/overview)
 
-## Publications
+## Test Publications
+
+<script src="http://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F29527%2Fcollections%2FZKIJGDGN%2Fitems%3Fkey%3DS3GobiioCxSdElCoDrZVcVoD%26format%3Dbibtex%26limit%3D100&jsonp=1"></script>
+
+## Niks Publications
 
 <script src="http://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F116661%2Fcollections%2FQJ4Z3PH2%2Fitems%3Fkey%3DmeaOuxMcQYFcafdXgOBsfzuI%26format%3Dbibtex%26limit%3D100&jsonp=1"></script>
