@@ -3,7 +3,7 @@ layout: template1
 title: Publications
 ---
 
-## Public profiles for 'NJ Grünwald'
+## Profile
 
 - [google scholar](https://scholar.google.com/citations?user=t55Dt5sAAAAJ&hl=en)
 - [orcid](http://orcid.org/0000-0003-1656-7602)
